@@ -1,4 +1,7 @@
 Cold and dry, but everything is my favorite colour.
 Two moons may be a problem for Wolfman.
 Another line for the mars file.
-This line was added from notepad GUI.
+This line was added from notepad GUI
+Another line for the mars file
+A change made in git hub
+
